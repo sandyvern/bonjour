@@ -1,5 +1,7 @@
 require "bonjour/version"
 
 module Bonjour
-  # Your code goes here...
+  class Hi
+      puts "Bonjour!"
+  end
 end
